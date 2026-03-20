@@ -1,0 +1,67 @@
+* {
+    /* PRIMARY - RED */
+    primary: #ff0000;
+    primary-fixed: #ff3333;
+    primary-fixed-dim: #cc0000;
+    on-primary: #000000;
+    on-primary-fixed: #000000;
+    on-primary-fixed-variant: #330000;
+    primary-container: #1a0000;
+    on-primary-container: #ff6666;
+
+    /* SECONDARY - DARK RED */
+    secondary: #990000;
+    secondary-fixed: #cc0000;
+    secondary-fixed-dim: #660000;
+    on-secondary: #000000;
+    on-secondary-fixed: #000000;
+    on-secondary-fixed-variant: #330000;
+    secondary-container: #140000;
+    on-secondary-container: #ff4d4d;
+
+    /* TERTIARY - BLACK/RED MIX */
+    tertiary: #1a0000;
+    tertiary-fixed: #330000;
+    tertiary-fixed-dim: #0d0000;
+    on-tertiary: #ff3333;
+    on-tertiary-fixed: #ff0000;
+    on-tertiary-fixed-variant: #990000;
+    tertiary-container: #0a0000;
+    on-tertiary-container: #ff6666;
+
+    /* ERROR */
+    error: #ff0000;
+    on-error: #000000;
+    error-container: #1a0000;
+    on-error-container: #ff6666;
+
+    /* BACKGROUND */
+    surface: #000000;
+    on-surface: #ff3333;
+    on-surface-variant: #cc0000;
+
+    outline: #660000;
+    outline-variant: #330000;
+
+    shadow: #000000;
+    scrim: #000000;
+
+    inverse-surface: #ff3333;
+    inverse-on-surface: #000000;
+    inverse-primary: #ff0000;
+
+    /* SURFACE VARIANTS */
+    surface-dim: #000000;
+    surface-bright: #0d0000;
+
+    surface-container-lowest: #000000;
+    surface-container-low: #050000;
+    surface-container: #0a0000;
+    surface-container-high: #140000;
+    surface-container-highest: #1f0000;
+}
+
+element selected {
+    background-color: #ff0000;
+    text-color: #000000;
+}
