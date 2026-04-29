@@ -14,7 +14,7 @@
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 <details open>
 <summary><strong>Fastfetch</strong></summary>
@@ -50,7 +50,7 @@
 
 ---
 
-## 🧰 Stack
+##  Stack
 
 | Component | Tool |
 |-----------|------|
@@ -64,7 +64,7 @@
 
 ---
 
-## 📁 Structure
+##  Structure
 
 ```
 .
@@ -78,7 +78,7 @@
 
 ---
 
-## ⚡ Installation
+##  Installation
 
 > **Warning:** Review each config before applying. These are tailored to my system and may need adjustments for yours.
 
@@ -104,7 +104,7 @@ hyprctl reload
 
 ---
 
-## ⌨️ Keybinds
+##  Keybinds
 
 | Keys | Action |
 |------|--------|
