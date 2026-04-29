@@ -85,7 +85,7 @@
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/yourusername/dotfiles.git ~/dotfiles
+git clone https://github.com/Prajval35/Hyprland.git ~/dotfiles
 ```
 
 **2. Install dependencies** *(Arch / AUR)*
