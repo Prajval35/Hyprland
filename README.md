@@ -108,14 +108,14 @@ hyprctl reload
 
 | Keys | Action |
 |------|--------|
-| `Super + Return` | Open terminal |
-| `Super + Space` | Rofi launcher |
-| `Super + Q` | Close window |
+| `Super + Q` | Open terminal |
+| `Super + D` | Rofi launcher |
+| `Super + C` | Close window |
 | `Super + [1-9]` | Switch workspace |
 | `Super + Shift + [1-9]` | Move window to workspace |
 
 ---
 
 <div align="center">
-  <sub>Made Arch Linux</sub>
+  <sub>Made for Arch Linux</sub>
 </div>
