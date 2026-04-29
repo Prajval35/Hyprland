@@ -69,7 +69,6 @@
 ```
 .
 ├── .config/
-│   ├── hypr/          # Hyprland config & keybinds
 │   ├── kitty/         # Terminal theme & settings
 │   ├── waybar/        # Bar config, style.css
 │   ├── rofi/          # Launcher themes & applets
