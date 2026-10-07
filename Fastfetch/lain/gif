@@ -1,0 +1,7 @@
+ffmpeg -i anime.gif -vf "split[a][b];[a]palettegen[p];[b][p]paletteuse=diff_mode=none" -y flat.gif
+ascii-image-converter flat.gif -d 60,30 -m " .:-=+*#%@"
+
+magick anime.gif -coalesce flat.gif
+ascii-image-converter flat.gif -d 60,30 -m " .:-=+*#%@"
+
+ascii-image-converter flat.gif -d 100,50 -b --threshold 100     
